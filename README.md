@@ -16,6 +16,8 @@ A precursor to the PacMen Exercise, this project - PacMan Solo - is a simulation
 - PacMan will begin moving across the page from left to right, and will return when he reaches the edge.
 - View and enjoy.
 
+You can also see a working demo <a href="https://lkmitx.github.io/pacman-solo/" target="_blank">here</a>.
+
 ## Roadmap of Future Improvements
 
 Further development of this repository could include the following:
